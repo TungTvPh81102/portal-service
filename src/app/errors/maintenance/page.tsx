@@ -1,6 +1,6 @@
 "use client";
 
-import { ErrorScreen } from "@/components/error-screen";
+import ErrorScreen from "@/components/error/error-screen";
 
 export default function MaintenancePage() {
   return (
